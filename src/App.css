@@ -1,0 +1,54 @@
+body{
+font-family:Arial;
+margin:0;
+background:#f5f5f5;
+}
+
+/* navbar  */
+.navbar{
+background:#333;
+color:white;
+padding:15px;
+display:flex;
+justify-content:space-between;
+}
+
+.navbar a{
+color:white;
+margin-left:15px;
+text-decoration:none;
+}
+
+.container{
+width:80%;
+margin:auto;
+padding:20px;
+}
+
+/* card  */
+.card{
+background:white;
+padding:15px;
+margin:10px 0;
+border-radius:6px;
+box-shadow:0 0 5px rgba(0,0,0,0.2);
+}
+
+input{
+padding:8px;
+margin:10px 0;
+width:100%;
+}
+
+button{
+padding:10px;
+background:green;
+color:white;
+border:none;
+}
+
+/* not found  */
+.notfound{
+text-align:center;
+margin-top:100px;
+}
