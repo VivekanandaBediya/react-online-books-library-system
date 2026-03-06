@@ -2,27 +2,27 @@ const books = [
   {
     id: 1,
     title: "React Basics",
-    author: "John Smith",
+    author: "John",
     category: "Programming",
-    description: "Learn React from scratch",
+    description: "Learn React step by step",
     rating: 4
   },
   {
     id: 2,
-    title: "Space Journey",
-    author: "Mark Lee",
+    title: "Space Adventure",
+    author: "Mark",
     category: "Sci-Fi",
-    description: "Adventure in space",
+    description: "Space journey story",
     rating: 5
   },
   {
     id: 3,
     title: "Business Mind",
-    author: "Elon Ray",
+    author: "Elon",
     category: "Non-Fiction",
     description: "Business strategies",
     rating: 4
   }
-];
+]
 
-export default books;
+export default books
