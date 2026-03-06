@@ -9,9 +9,9 @@ function Home(){
 
       <h3>Categories</h3>
 
-      <Link to="/books/Fiction">Fiction</Link>
-      <Link to="/books/Non-Fiction">Non-Fiction</Link>
-      <Link to="/books/Sci-Fi">Sci-Fi</Link>
+      <Link to="/books/Fiction" style={{marginRight : "10px"}}>Fiction</Link>
+      <Link to="/books/Non-Fiction" style={{marginRight : "10px"}}>Non-Fiction</Link>
+      <Link to="/books/Sci-Fi" style={{marginRight : "10px"}}>Sci-Fi</Link>
 
     </div>
   )

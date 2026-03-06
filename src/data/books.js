@@ -1,10 +1,10 @@
 const books = [
   {
     id: 1,
-    title: "React Basics",
+    title: "Space Fiction",
     author: "John",
-    category: "Programming",
-    description: "Learn React step by step",
+    category: "Fiction",
+    description: "Showing the space fiction",
     rating: 4
   },
   {
